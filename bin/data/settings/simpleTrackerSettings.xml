@@ -1,0 +1,12 @@
+<BG_CAPTURE>
+    <val_0>0.000000</val_0>
+</BG_CAPTURE>
+<THRESHOLD_GAZE>
+    <val_0>60.000000</val_0>
+</THRESHOLD_GAZE>
+<MIN_BLOB>
+    <val_0>10.000000</val_0>
+</MIN_BLOB>
+<MAX_BLOB>
+    <val_0>10000.000000</val_0>
+</MAX_BLOB>

@@ -1,0 +1,24 @@
+<app>
+	
+	<!-- mode, input 0 = live, 1 = video  -->
+
+	<mode>1</mode>
+	
+	<!-- some per mode settings -->
+
+    	<videoFile>movies/mimodek.mov</videoFile>
+		<!-- I added width and height here because gstreamer is not returning width and height of the video file #linux fix# -->
+		<width>720</width>
+		<height>480</height>
+
+	<videoGrabber>
+
+		<!-- set device id if you need to work with a different camera -->
+
+		<deviceId></deviceId>
+
+		<width>640</width>
+		<height>480</height>
+	</videoGrabber>
+
+</app>

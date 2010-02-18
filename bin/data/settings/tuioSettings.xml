@@ -1,0 +1,12 @@
+<app>
+	
+	<!-- mode, send tuio = 1, don't send = 0  -->
+
+	<mode>1</mode>
+	<!-- 
+	<host>192.168.251.130</host>
+	-->
+	<host>127.0.0.1</host>
+	<port>3333</port>
+
+</app>

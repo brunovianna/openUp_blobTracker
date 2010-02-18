@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="../../../addons/ofxOpenCv/src/ofxCvBlob.h" open="0" top="0" tabpos="5">
+		<Cursor position="547" topLine="19" />
+	</File>
+	<File name="../../../addons/ofxOpenCv/src/ofxCvColorImage.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="6468" topLine="166" />
+	</File>
+	<File name="../../../addons/ofxOpenCv/src/ofxCvContourFinder.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="597" topLine="12" />
+	</File>
+	<File name="../../../addons/ofxOpenCv/src/ofxCvContourFinder.h" open="0" top="0" tabpos="2">
+		<Cursor position="818" topLine="24" />
+	</File>
+	<File name="../../../addons/ofxOsc/src/ofxOscBundle.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1721" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxOsc/src/ofxOscBundle.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="32" />
+	</File>
+	<File name="../../../addons/ofxOsc/src/ofxOscMessage.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1544" topLine="12" />
+	</File>
+	<File name="../../../addons/ofxOsc/src/ofxOscMessage.h" open="0" top="0" tabpos="0">
+		<Cursor position="2855" topLine="56" />
+	</File>
+	<File name="../../../addons/ofxOsc/src/ofxOscSender.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1570" topLine="37" />
+	</File>
+	<File name="../../../addons/ofxOsc/src/ofxOscSender.h" open="0" top="0" tabpos="0">
+		<Cursor position="2058" topLine="45" />
+	</File>
+	<File name="../../../addons/ofxXmlSettings/libs/tinyxml.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="12121" topLine="627" />
+	</File>
+	<File name="../../../addons/ofxXmlSettings/src/ofxXmlSettings.h" open="0" top="0" tabpos="10">
+		<Cursor position="95" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="182" topLine="0" />
+	</File>
+	<File name="testApp.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="1232" topLine="22" />
+	</File>
+	<File name="testApp.h" open="0" top="0" tabpos="1">
+		<Cursor position="180" topLine="0" />
+	</File>
+	<File name="tracking/baseTracker.h" open="0" top="0" tabpos="4">
+		<Cursor position="349" topLine="2" />
+	</File>
+	<File name="tracking/inputManager.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="1361" topLine="12" />
+	</File>
+	<File name="tracking/inputManager.h" open="0" top="0" tabpos="10">
+		<Cursor position="67" topLine="0" />
+	</File>
+	<File name="tracking/maskedTracker.h" open="0" top="0" tabpos="13">
+		<Cursor position="442" topLine="0" />
+	</File>
+	<File name="tracking/ofxOpenCVBlobTrackingExt/src/ofxCvBlobTracker.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="1568" topLine="54" />
+	</File>
+	<File name="tracking/ofxOpenCVBlobTrackingExt/src/ofxCvBlobTracker.h" open="0" top="0" tabpos="7">
+		<Cursor position="1310" topLine="30" />
+	</File>
+	<File name="tracking/ofxOpenCVBlobTrackingExt/src/ofxCvTrackedBlob.h" open="0" top="0" tabpos="6">
+		<Cursor position="370" topLine="57" />
+	</File>
+	<File name="tracking/openUpTracker.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="7507" topLine="39" />
+	</File>
+	<File name="tracking/openUpTracker.h" open="0" top="0" tabpos="14">
+		<Cursor position="406" topLine="11" />
+	</File>
+	<File name="tracking/simpleTracker.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="1999" topLine="36" />
+	</File>
+	<File name="tracking/simpleTracker.h" open="0" top="0" tabpos="4">
+		<Cursor position="324" topLine="0" />
+	</File>
+	<File name="tracking/trackingManager.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="1625" topLine="57" />
+	</File>
+	<File name="tracking/trackingManager.h" open="0" top="0" tabpos="5">
+		<Cursor position="322" topLine="8" />
+	</File>
+	<File name="utils/ofxControlPanel/simpleFileLister.h" open="0" top="0" tabpos="12">
+		<Cursor position="62" topLine="0" />
+	</File>
+	<File name="utils/tuioServer.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1268" topLine="46" />
+	</File>
+	<File name="utils/tuioServer.h" open="1" top="0" tabpos="2">
+		<Cursor position="222" topLine="12" />
+	</File>
+</CodeBlocks_layout_file>
